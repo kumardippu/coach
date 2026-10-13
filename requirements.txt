@@ -1,0 +1,7 @@
+streamlit
+mem0ai
+langchain
+langchain-groq
+python-dotenv
+google-genai
+google-generativeai
